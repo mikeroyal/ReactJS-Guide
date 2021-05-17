@@ -1,12 +1,20 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/100526624-7ba5c080-317f-11eb-8bf6-6fedf59480e1.png">
   <br />
- ReactJS Guide
+ React Guide
 </h1>
 
 #### A guide covering ReactJS including the applications, libraries and tools that will make you a better and more efficient React developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560475-65d08b80-b71e-11eb-9af2-ed1fa9203eec.png">
+  <br />
+</p>
+
+
+# React Learning Resources
 
 [React](https://reactjs.org/) is a declarative, efficient, and flexible JavaScript library for building user interfaces.
 
@@ -30,7 +38,7 @@
 
 [Introduction to React Course on Cloud Academy](https://cloudacademy.com/course/introduction-toreact/development-environment-set-up/)
 
-## Tools
+# React Tools and Frameworks
 
 [WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
 
@@ -81,3 +89,12 @@
 [Material-UI](https://material-ui.com/) is a collection of [React](https://reactjs.org/) components for faster and simpler web development. 
 
 [Chakra UI](https://chakra-ui.com/) is  a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/ReactJS-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
